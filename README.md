@@ -1,1 +1,2 @@
 # springcloud
+这是一个学习springcloud的config配置的项目
